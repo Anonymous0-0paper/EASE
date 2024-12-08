@@ -1,1 +1,1 @@
-# Energy-Aware Scheduling in Edge Computing Using Energy Valley Optimizer
+# ARGENT: Energy-Aware Scheduling in Edge Computing Using Energy Valley Optimizer
