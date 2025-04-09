@@ -38,11 +38,11 @@ Our evaluations using real-world datasets demonstrate that ARGENT:
 - Improves the success ratio by 5.28%, ensuring robust performance in meeting deadlines.
 
 ---
+<!---
+ ## Citation
 
-// ## Citation
-
-// If you find ARGENT useful for your research, please cite our paper as follows (Still waiting for Doi):
-// ```bibtex
+If you find ARGENT useful for your research, please cite our paper as follows (Still waiting for Doi):
+```bibtex
 @inproceedings{toghani2025argent,
   title={ARGENT: Energy-Aware Scheduling in Edge Computing Using Energy Valley Optimizer},
   author={Toghani, Mehrab and Maleki, Sareh and Younesi, Abolfazl and Safari, Sepideh and Hessabi, Shaahin},
@@ -50,7 +50,8 @@ Our evaluations using real-world datasets demonstrate that ARGENT:
   year={2025},
   address={Tehran, Iran}
 }
-//```
+```
+-->
 
 ---
 
