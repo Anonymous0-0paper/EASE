@@ -38,20 +38,23 @@ Our evaluations using real-world datasets demonstrate that ARGENT:
 - Improves the success ratio by 5.28%, ensuring robust performance in meeting deadlines.
 
 ---
-<!---
+
  ## Citation
 
-If you find ARGENT useful for your research, please cite our paper as follows (Still waiting for Doi):
+If you find ARGENT useful for your research, please cite our paper as follows:
 ```bibtex
-@inproceedings{toghani2025argent,
-  title={ARGENT: Energy-Aware Scheduling in Edge Computing Using Energy Valley Optimizer},
+@INPROCEEDINGS{10967461,
   author={Toghani, Mehrab and Maleki, Sareh and Younesi, Abolfazl and Safari, Sepideh and Hessabi, Shaahin},
-  booktitle={Proceedings of the 2025 29th International Computer Conference, CSICC},
+  booktitle={2025 29th International Computer Conference, Computer Society of Iran (CSICC)}, 
+  title={ARGENT: Energy-Aware Scheduling in Edge Computing Using Energy Valley Optimizer}, 
   year={2025},
-  address={Tehran, Iran}
-}
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Energy consumption;Processor scheduling;Focusing;Machine learning;Real-time systems;Energy efficiency;Resource management;Optimization;Edge computing;Scheduling;Edge Computing;Energy Valley Optimizer;Energy Consumption;Multi-Objective Optimization},
+  doi={10.1109/CSICC65765.2025.10967461}}
+
 ```
--->
 
 ---
 
